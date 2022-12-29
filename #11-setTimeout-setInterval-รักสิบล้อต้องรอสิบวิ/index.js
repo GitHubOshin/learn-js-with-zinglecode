@@ -24,11 +24,23 @@ let lyrics = [
 ]
 
 let randomButton = document.querySelector('.random-btn')
+let stopButton = document.querySelector('.stop-btn')
 let output = document.querySelector('#output')
 
+let timeoutId = 0
+
 randomButton.addEventListener('click', function click() {
-  let n = lyrics.length
-  let index = Math.floor(Math.random() * n)
-  let lyric = lyrics[index].lyric
-  output.innerHTML = lyric
+  output.innerHTML = 'Click STOP for stop the lyrics randomization...'
+  timeoutId = setInterval(() => {
+    let n = lyrics.length
+    let index = Math.floor(Math.random() * n)
+    let lyric = lyrics[index].lyric
+    output.innerHTML = `- ${lyric} -`
+  }, 1000)
 })
+
+stopButton.addEventListener('click', () => {
+  clearInterval(timeoutId)
+  output.innerHTML = 'We have stopped the lyrics randomization.'
+})
+
