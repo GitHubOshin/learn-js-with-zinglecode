@@ -1,4 +1,6 @@
-## LEARN JAVASCRIPT WITH ZINGLECODE
+# LEARN JAVASCRIPT WITH ZINGLECODE
+
+## All contents I have learned from the course.
 
 ### [สอน JavaScript #11 - setTimeout setInterval - รักสิบล้อต้องรอสิบวิ](https://youtu.be/n0SpVgt3Lho)
 
