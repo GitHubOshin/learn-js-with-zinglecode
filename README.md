@@ -8,9 +8,9 @@
 
 Folder : 11-setTimeout-and-setInterval
 
-#### [สอน JavaScript #22 - Promise - ซ้ายเทวดา ขวาซาตาน](https://youtu.be/36Mpr5Qrt2s)
-
 ### PROMISE
+
+#### [สอน JavaScript #22 - Promise - ซ้ายเทวดา ขวาซาตาน](https://youtu.be/36Mpr5Qrt2s)
 
 Folder : 22-promise
 
@@ -21,3 +21,9 @@ Folder : 23-promise-chaining
 #### [สอน JavaScript #24 - Promise Example - เพลงนี้เพื่อเธอววว์](https://youtu.be/IzJtOELYuF8)
 
 Folder : 24-promise-example
+
+### FETCH
+
+#### [สอน JavaScript #25 - Fetch - เฟชรผมโคตรวิบวับวิบวับ](https://youtu.be/BpI2uIQAkWo)
+
+Folder : 25-fetch
