@@ -27,3 +27,9 @@ Folder : 24-promise-example
 #### [สอน JavaScript #25 - Fetch - เฟชรผมโคตรวิบวับวิบวับ](https://youtu.be/BpI2uIQAkWo)
 
 Folder : 25-fetch
+
+### ASYNC & AWAIT
+
+#### [สอน JavaScript #26 - async await - ขาดเธอก็เหงาขาดเขาก็คงเสียใจ](https://youtu.be/JmSKC4fBfZs)
+
+Folder : 26-async-await
