@@ -39,8 +39,11 @@ Folder : 26-async-await
 In this video you'll learn...
 
 0.59 : How to copy the data and keep it in your new variable by using the "Spread" operator.
+
 6.54 : How to use "Destructuring" assignment to manipulate Array & Objrct easier.
+
 14.00 : How to Add, Edit and Delete the data in Array & Object.
+
 21.15 : How to sort elements by using the "sort()" method.
 
 #### [สอน JavaScript #27 - Extra part 1 - รักละมุนละไมติดตรึงไว้ในความทรงจำ](https://youtu.be/kr3CpPCY-Tg)
@@ -53,8 +56,11 @@ Folder : 27-extra-part-1
 In this video you'll learn...
 
 0.00 : Basic of Function.
+
 4.48 : Let's learn more about 'Srting'!
+
 13.22 : How to get 'date' data in JS.
+
 19.54 : Data types 'null' & 'undefined'
 
 #### [สอน JavaScript #28 - Extra part 2 - ทุกๆการกระทำจดจำไว้](https://youtu.be/bFWctM1aPpA)
